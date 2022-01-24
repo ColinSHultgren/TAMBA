@@ -241,14 +241,82 @@ Analysis of process, product, or service that aims to describe the impacts of th
         - Land and resource use, global warming, ozone depletion, acidification, eutrophication, photo-oxidant formation, human toxicity, _et cetera_.
       - Characterisation.
       - Weighting.
+        - Stepwise aggregation from inventory analysis to impact assessment.
+          - ![afbeelding](https://user-images.githubusercontent.com/78508062/150857002-488a9a5c-0010-416b-8b67-2741c4477d9e.png)
+          - The characterisation is based on scientific results concerning cause-effect.
+          - Classification is the relative contributions to each impact category.
+          - Impact assessment methods based on preferences and value judgements, _e.g._ what is critical to focus on or political environmental goals.
+          - Example weighting methods: eco-indicator, EPS (willingsness to pay to avoid damanges_, environmental themes, EDIP.
+      - Impact Assessment Method ReCIPe2016.
+        - There are many different IA methods this is an example.
+        - ReCiPe Impact assessment method.
+        - The long inventory list is ”translated” to impact categories.
+        - Midpoint and/or endpoint impacts can be used as results.
+        - The analysis is determined by what cultural perspective is chosen.
+        - Different cultural perspectives: 
+          - individualist (weak sustainability), 
+          - hierarchist (Consensus, used in research), 
+          - egalitarian (strong sustainability).
+        - Indicators:
+          - midpoint,
+          - endpoint.
+        - The indicator scores on different levels contain factors according to the three cultural perspectives:
+          - individualist: short term, optimism that technology can avoid many problems in future,
+            - based on proven cause-effect impacts, a short time perspective, and technosolutionist,
+          - hierarchist: consensus model, as often encountered in scientific models, this is often considered to be the default model, 
+            - consensus model, as often encountered in scientific models; this is often considered to be the default model. It is usually defined using a time perspective of 100 years and is based on facts supported by several scientific and political bodies,
+          - egalitarian: long term based on precautionary principle thinking
+            - based on including almost all known or assumed effects, a long time perspective, and based on precautionary principle thinking.
+        - Strong and weak sustainability.
+          - ![afbeelding](https://user-images.githubusercontent.com/78508062/150859405-66c36967-8d91-4903-a43f-8042a514d005.png)
+          - There is a connection between the three cultural perspectives and the concept of weak and strong sustainability. The individualist perspective and the weak sustainability share the goal to maximise each individual interest to add to the best possible sum for society as a whole, _i.e._ the freedom of enterprise and the compensation mechanisms between planet and prosperity, based on a misleading illusion of interchangeability[^5]. 
+          - On the opposite value pole, the hierarchist and egalitarian perspective imply that not only the common interest be taken into account but also the interests of future generations and the natural world, corresponding to strong sustainability[^5].
+      - Weighting.
+        - Conversion of indicator results for various environmental impact categories using numerical factors.
+        - Based on various value bases, not on natural science.
+        - Recommended to use several different weighting methods in combination with a variation analysis.
+        - Inventory results, characterisation results and weighting results need to be analysed together.
+        - Weighting is a process of converting indicator results for different environmental impact categories through use of numerical factors based on valuation principles. It may include aggregation of the weighted indicator results.
+        - Weighting is an optional element with two possible methods, either 
+          - conversion of the indicator results or the normalised results with selected weighting factors, or 
+          - aggregation of the transformed indicator results or the normalised results across environmental impact categories.
+        - The weighting steps are based on values and are not scientifically based.
+        - Various individuals, organisations and societies may have different preferences, so it is possible for different parties to weigh in different ways despite the same indicator result or normalised indicator result. 
+        - In an LCA it may be desirable to use several different weighting factors and weighting methods, and performing a sensitivity analysis to assess the impact on the LCIA results for different values and weighting methods.
+      - Recommended to use several different environmental impact categories.
+      - Quality analysis and review.
+      - Interpretation and presentation.
+      - In this step it is clear that we have to have an iterative process.
+      - Connections between impact assessment and interpretation.
     - Interpretation.
+      - In the interpretation step the findings are combined consistent with the goal and scope to reach conclusion and recommendations.
+      - What is of relevance?
+      - What is “big” and what is “small”?
+      - Why?
+      - Can we answer the question defined in the goal and scope step?
+      - The interpretation in an LCA or LCI study includes several parts:
+        - identification of the significant issues based on the results from inventory analysis and environmental impact analysis,
+        - evaluation to establish confidence in the results, _e.g._ through completeness check, sensitivity and consistency checks,
+        - conclusions, limitations, recommendations, and 
+        - reporting.
+      - How robust are the results?
+        - Completeness check - data gaps in inventory.
+        - Consistency check – modelling an methodological choices.
+        - Uncertainty analysis – effect of uncertainty.
+        - Sensitivity analysis – Identification and check of effect of critical data.
+        - Variation analysis – alternative scenarios, _e.g._ +/- 50%.
+        - Data quality assessment – degree of data gaps, approximate data and appropriate data.
+- Critical choices in LCA:
+  - functional unit,
+  - system boundaries and allocation,
+  - type of data,
+  - impact assessment method.
 
 [^1]: Wrisberg, N., Udo de Haes, H. A., Triebswetter, U., Eder, P., & Clift, R. (2002). _Analytical Tools for Environmental Design and Management in a Systems Perspective―The Combined Use of Analytical Tools_. Springer Science + Business Media. [10.1007/978-94-010-0456-5](https://doi.org/10.1007/978-94-010-0456-5). Table 4.5, p. 66.
 [^2]: Box GE. _Science and statistics_. Journal of the American Statistical Association. 1976 Dec 1;71(356):791-9.
 [^3]: Box GE, Draper NR. _Empirical model-building and response surfaces_. John Wiley & Sons; 1987.
 [^4]: Heijungs R, Guinée B. _An Overview of the Life Cycle Assessment. Life cycle assessment handbook: a guide for environmentally sustainable products_. 2012 Oct 8:15.
-[^5]: 
-[^6]: 
+[^5]: Vandevyvere H. _How to cut across the catch-all? A philosophical-cultural framework for assessing sustainability_. International Journal of Innovation and Sustainable Development. 2011 Jan 1;5(4):403-24.
 
 
 
