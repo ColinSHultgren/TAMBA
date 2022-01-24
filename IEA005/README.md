@@ -1,0 +1,2 @@
+# 1801 [Introduction and corporations](https://github.com/GreenVeggi/TAMBA/tree/main/IEA005/18012022)
+- Lozano, R. (2008). _[Envisioning sustainability three-dimensionally](https://github.com/GreenVeggi/TAMBA/blob/main/IEA005/18012022/Lozano%202008%20Envisioning%20Sustainability%20Three-Dimensionally.md)_. Journal of Cleaner Production, 16(17), 1838–1846. https://doi.org/10.1016/j.jclepro.2008.02.008).
