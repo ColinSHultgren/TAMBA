@@ -7,7 +7,6 @@
 - [Lecture comments](#lecture-comments)
 - [References](#references)
 - [Questions](#questions)
-- [Zettels](#zettels)
 
 # General
 #### Author(s)
