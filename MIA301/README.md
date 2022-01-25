@@ -6,4 +6,12 @@
 - Azapagic, A. (2018). _[Environmental Systems Analysis](https://github.com/GreenVeggi/TAMBA/blob/main/MIA301/Life%20Cycle%20Assessment/Azapagic%202018%20Environmental%20Systems%20Analysis%20in%20Handbook%20of%20Environmental%20Engineering.md)_. In M. Kutz, _Handbook of Environmental Engineering_ (pp. 1–12). John Wiley & Sons, Ltd. [10.1002/9781119304418.ch1](https://doi.org/10.1002/9781119304418.ch1).
   - Only the LCA-related matters.
 
+# 2501 [Energy and Exergy Analysis](https://github.com/GreenVeggi/TAMBA/tree/main/MIA301/Energy%20and%20Exergy%20Analysis)
+- Dinçer, İ., & Rosen, M. A. (2013). _[Exergy and Energy Analyses](https://github.com/GreenVeggi/TAMBA/blob/main/MIA301/Energy%20and%20Exergy%20Analysis/Din%C3%A7er%202012%20Exergy%20and%20Energy%20Analyses.md)_. In _Exergy: Energy, Environment and Sustainable Development_ (pp. 21–30). Elsevier. [10.1016/B978-0-08-097089-9.00002-4](https://doi.org/10.1016/B978-0-08-097089-9.00002-4).
+- Krischer, K., & Schönleber, K. (2015). _[Introduction](https://github.com/GreenVeggi/TAMBA/blob/main/MIA301/Energy%20and%20Exergy%20Analysis/Krischer%202015%20Introduction%20to%20Physics%20of%20Energy%20Conversion.md)_. In _Physics of energy conversion_. de Gruyter.
+- Wrisberg, N., Udo de Haes, H. A., Triebswetter, U., Eder, P., & Clift, R. (2002). _[Analytical Tools for Environmental Design and Management in a Systems Perspective―The Combined Use of Analytical Tools](https://github.com/GreenVeggi/TAMBA/blob/main/MIA301/Energy%20and%20Exergy%20Analysis/Wrisberg%202002%20Analytical%20Tools%20for%20Environmental%20Design%20and%20Management%20in%20a%20Systems%20Perspective%20%E2%80%95%20The%20Combined%20Use%20of%20Analytical%20Tools.md)_. Springer Science + Business Media. [10.1007/978-94-010-0456-5](https://doi.org/10.1007/978-94-010-0456-5).
+  - Only EEA-related matters.
+- Azapagic, A. (2018). _[Environmental Systems Analysis](https://github.com/GreenVeggi/TAMBA/blob/main/MIA301/Energy%20and%20Exergy%20Analysis/Azapagic%202018%20Environmental%20Systems%20Analysis%20in%20Handbook%20of%20Environmental%20Engineering.md)_. In M. Kutz, _Handbook of Environmental Engineering_ (pp. 1–12). John Wiley & Sons, Ltd. [10.1002/9781119304418.ch1](https://doi.org/10.1002/9781119304418.ch1).
+  - Only the EEA-related matters.
+
 
