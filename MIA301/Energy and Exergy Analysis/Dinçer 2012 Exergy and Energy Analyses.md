@@ -7,42 +7,88 @@
 - [Lecture comments](#lecture-comments)
 - [References](#references)
 - [Questions](#questions)
+- [Zettels](#zettels)
 
 # General
 #### Author(s)
+- [Ibrahim Dinçer](https://scholar.google.com/citations?user=mLx9ZO0AAAAJ&hl=en) - University of Ontario Institute of Technology
+- [Marc A. Rosen](https://scholar.google.ca/citations?user=gWt3wuUAAAAJ&hl=en) - Professor, University of Ontario Institute of Technology
+
 #### Abstract
+In this chapter, theoretical and practical aspects of thermodynamics most relevant to energy and exergy analyses are described. Mass, energy, entropy, and exergy balances are discussed. The exergy of systems and flows is explained, as is exergy destruction.
+
+Exergy analysis is a thermodynamic analysis technique based on the Second Law of Thermodynamics (SLT), which provides an alternative and illuminating means of assessing and comparing processes and systems rationally and meaningfully. Exergy analysis can assist in improving and optimising designs. 
+
+The chapter reviews fundamental principles and such related issues as reference-environment selection, efficiency definition, and material properties acquisition. General implications of exergy analysis results are discussed, and a step-by-step procedure for energy and exergy analyses is given. Exergy nomenclature is described.
+
 #### Key-words
+- exergy
+- exergy analysis
+- energy analysis
+- exergy consumption
+- exergy balance
+- reference environment
+- efficiency
+- exergy property
+
 #### First two sentences of the introduction
+Exergy analysis is a thermodynamic analysis technique based on the SLT, which provides an alternative and illuminating means of assessing and comparing processes and systems rationally and meaningfully. In particular, exergy analysis yields efficiencies that provide a true measure of how nearly actual performance approaches the ideal, and identifies more clearly than energy analysis the causes and locations of thermodynamic losses.
+
 #### Last two sentences of the introduction
+Increasing application and recognition of the usefulness of exergy methods by those in industry, government, and academia has been observed in recent years. Exergy has also become increasingly used internationally. 
+
 #### (Notable) figures
 #### Publication
 - [ ] peer-reviewed
 
-
+Elsevier.
 #### Article type
-|major type|specific|
-|----------|--------|
-|<ul><li>- [ ] primary or original research article</li></ul>|<ul><li>- [ ] randomised controlled trial</li><li>- [ ] clinical trial</li><li>- [ ] before-and-after study</li><li>- [ ] cohort study</li><li>- [ ] case-control study</li><li>- [ ] cross-sectional study</li><li>- [ ] diagnostic test assessment</li><li>- [ ] case study</li><li>- [ ] technical note</li></ul>|
-|<ul><li>- [ ] secondary or review article</li></ul>|<ul><li>- [ ] narrative review article</li><li>- [ ] systematic review</li><li>- [ ] meta-analysis</li></ul>|
-|<ul><li>- [ ] special article</li></ul>|<ul><li>- [ ] letter/correspondence</li><li>- [ ] missive</li><li>- [ ] editorial opinion</li><li>- [ ] commentary</li><li>- [ ] pictorial essay</li><li>- [ ] other</li></ul>|
-|<ul><li>- [ ] tertiary literature</li></ul>|<ul><li>- [ ] textbook, handbook, or manual</li><li>- [ ] trade or professional publication article</li><li>- [ ] encyclopedia</li></ul>|
-|<ul><li>- [ ] grey literature</li></ul>|<ul><li>- [ ] conference proceding</li><li>- [ ] poster</li><li>- [ ] abstract</li><li>- [ ] government report</li><li>- [ ] for-profit and nonprofit organisation report or online forum</li><li>- [ ] (micro)blog or other social medium</li></ul>|
+Tertiary literature, textbook.
 
 # Structure
+- Introduction.
+- Why energy and exergy analyses?
+- Nomenclature.
+- Balances for mass, energy, and entropy.
+  - Conceptual balances.
+  - Detailed balances.
+- Exergy of systems and flows.
+  - Exergy of a closed system.
+  - Exergy of flows:
+    - matter flow,
+    - thermal energy,
+    - work,
+    - electricity.
+- Exergy consumption.
+- Exergy balance.
+- Reference environment.
+  - Theoretical characteristics of the reference environment.
+  - Models for the reference environment.
+- Efficiencies and other measures of merti.
+- Procedure for energy and exergy analyses.
+- Energy and exergy properties.
+- Implications of results of exergy analyses.
+- Closing remarks.
 
 # Article content
 ## Main concepts
+#### Exergy analysis
+Technique based on the second law of thermodynamics to assess and compare processes and systems regarding their efficiencies. Exergy associated with an energy quantity is a quantitative assessment of its usefulness or quality. Although energy cannot be destroyed, it can be degraded.
+
 ## Supporting concepts
-## Research aim(s)
-## Hypothesis
-## Variables
-### Independent/treatment variables
-### Dependent/response variables
-### Control variables
-## Methodology
-## Results
+#### Efficiencies
+Ratios of energy quantities, used to assess and compare various systems.
+
+#### Negentropy
+A quantity defined such that the negentropy consumption during a process is equal to the negative of the entropy creation. Its value is not defined, but is a measure of order.
+
 ## Summary of key points
 ## Abbreviations
+|abr|abbreviation|
+|---|------------|
+|FLT|first law of thermodynamics|
+|HHV|higher heat value|
+|SLT|second law of thermodynamics|
 
 # Context
 ## Significance
