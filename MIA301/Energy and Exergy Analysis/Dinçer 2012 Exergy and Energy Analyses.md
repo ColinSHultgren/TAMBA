@@ -1,37 +1,12 @@
 # Contents
 - [General characteristics](#general)
-  - [author(s)](#authors)
-  - [abstract](#abstract)
-  - [key-words](#key-words)
-  - [first two sentences](#first-two-sentences-of-the-introduction)
-  - [last two sentences](#last-two-sentences-of-the-introduction)
-  - [notable figures](#notable-figures)
-  - [publication](#publication)
 - [Structure](#structure)
 - [Article content](#content)
-  - [main concepts](#main-concepts)
-  - [supporting concepts](#supporting-concepts)
-  - [research aim(s)](#research-aims)
-  - [hypothesis](#hypothesis)
-  - [variables](#variables)
-    -[independent or treatment variables](#independenttreatment-variables)
-    -[dependent or response variables](#dependentresponse-variables)
-    -[control variables](#control-variables)
-  - [methodology](#methodology)
-  - [results](#results)
-  - [summary of key points](#summary-of-key-points)
-  - [abbreviations](#abbreviations)
 - [Context](#context)
-  - [significance](#significance)
 - [Comments](#comments)
 - [Lecture comments](#lecture-comments)
 - [References](#references)
-  - [most-cited reference(s)](#most-cited-references)
-  - [interesting looking reference(s)](#interesting-looking-references)
 - [Questions](#questions)
-  - [before reading](#before-reading)
-  - [during reading](#during-reading)
-  - [after reading](#after-reading)
 
 # General
 #### Author(s)
@@ -141,6 +116,34 @@
 ## Interesting-looking reference(s)
 
 # Questions
-## Before reading
-## During reading
-## After reading
+- Explain why exergy analysis has become a major topic in many thermodynamics courses and why increasing numbers of people use it in the analysis of energy systems.
+- Exergy analysis allows the determination of the upper limits of system efficiency and quantification of the causes of degradation of system performance. Can similar results be obtained using an energy analysis?
+- Define the following terms and explain, where appropriate, their differences: exergy, available energy, availability, work capability, essergy, exergy consumption, irreversibility, lost work, dissipated work, dissipation, exergy destruction, and recovered exergy.
+- Carry out research to find out who invented the word “exergy” and when. Why is the term “exergy” more commonly used than “availability”?
+- Investigate the literature to identify the various symbols used for exergy, closed system exergy, flow exergy, and irreversibility. Are there any standard or commonly accepted symbols for these terms? 
+- What is the difference between closed system exergy and flow exergy? Express flow exergy in terms of closed system exergy.
+- The exergy of kinetic and potential energy are equal to the kinetic and potential energy, respectively. Consequently, some people argue that an exergy analysis involving a wind turbine or a hydroelectric power plant is meaningless. Do you agree? Explain.
+- Is there any relationship between the exergy of heat transfer and work output for a Carnot heat engine? Explain.
+- Is the statement “the exergy of work is equal to work” always correct? Explain. 
+- Write mass, energy, entropy, and exergy balances for the following devices: 
+  - an adiabatic steam turbine, 
+  - an air compressor with heat loss from the air to the surroundings, 
+  - an adiabatic nozzle, and 
+  - a diffuser with heat loss to the surroundings.
+- Why have several classes of reference-environment models been proposed?
+- Some researchers argue that “efficiency should be used only after it is clearly defined.” Do you agree? Explain.
+- What is the difference between energy and exergy efficiency? Define both for an adiabatic turbine.
+- Some researchers consider the “isentropic efficiency” a type of “first-law adiabatic efficiency” even though isentropic is a term associated with the SLT. What is your opinion?
+- One person claims that the exergy efficiency of a system is always greater than its energy efficiency while another person claims the opposite. Which person is correct? Explain with examples.
+- Define each of the following efficiencies for a compressor and explain under which conditions they should be used: 
+  - isentropic efficiency, 
+  - isothermal efficiency, and 
+  - exergy efficiency.
+- An engineer wants to express the performance of a hydraulic turbine using an isentropic efficiency, in terms of enthalpies. Is this reasonable? Explain with examples. Can you recommend better alternatives?
+- How do you define and express the exergy of a fuel? 
+- Is there any relationship between the exergy of a fuel and its lower or higher heating value?
+- A student claims that the thermal and exergy efficiencies of a fossil-fuel power plant are very close to each other. Do you agree? Explain.
+- How can one use the results of an exergy analysis to improve system efficiency? 
+- Can exergy analysis be used in the design of a thermal system? Explain.
+- Can exergy analysis be used in the optimisation of a thermal system? Explain.
+- An exergy analysis of the components of a system indicates that the exergy efficiency of component A is much smaller than that of component B. Does this mean that the priority for investing resources should be improving the performance of component A rather than component B?
