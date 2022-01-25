@@ -106,7 +106,7 @@
     - kinetic energy equals exergy
       - _x_ = _v_<sup>2</sup> * 0.5 = 312 * 5 Joules per kilogramme
     - quantity of air passing through the rotor over time
-      - _m_ = ρ_Av_ = ρ * (π_r_<sup>2</sup> * 0.5) * _v_
+      - _m_ = ρ _Av_ = ρ * (π _r_<sup>2</sup> * 0.5) * _v_
         - _m_ = 1 * 18 * 0.5(3 * 14 (5)<sup>2</sup>) * 25 = 1157 * 8 kilogrammes per second
     - available power
       - _w_ = _xm_ = 312 * 5(1157 * 8) = 361 kiloWatt
