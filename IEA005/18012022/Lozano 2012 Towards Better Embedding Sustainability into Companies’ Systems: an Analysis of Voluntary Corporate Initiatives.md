@@ -156,7 +156,7 @@ Finally, writing the new or modified theory (or framework), which can then be us
 |ZE|zero emissions|
 
 # Context
-Builds on the four elements of sustainability according to [Lozano (2008)](https://github.com/GreenVeggi/zetIndex/blob/main/IEA005%20Strategic%20Sustainability%20Management/Corporations/Lozano%202008%20Envisioning%20Sustainability%20Three-Dimensionally.md). Attempts to provide a clear framework for businesses to systematically implement voluntary sustainability initiatives.
+Builds on the four elements of sustainability according to [Lozano (2008)](https://github.com/GreenVeggi/TAMBA/blob/main/IEA005/18012022/Lozano%202008%20Envisioning%20Sustainability%20Three-Dimensionally.md). Attempts to provide a clear framework for businesses to systematically implement voluntary sustainability initiatives.
 
 # Comments
 
@@ -172,7 +172,7 @@ Builds on the four elements of sustainability according to [Lozano (2008)](https
 [^1]: Robèrt, K.-H., Schmidt-Bleek, B., Aloisi de Larderel, J., Basile, G., Jansen, J.L., Kuehr, R., Wackernagel, M., 2002. _Strategic sustainable development - selection, design and synergies of applied tools_. Journal of Cleaner Production 10, 197e214.
 [^2]: Jupp, V., 2006. _The SAGE Dictionary of Social Research Methods_. SAGE publications, London.
 [^3]: Saunders, M., Lewis, P., Thornhill, A., 2007. _Research Methods for Business Students_, fourth ed. Pearson Education Limited, Harlow, England.
-[^4]: Lozano, R. (2008). _[Envisioning sustainability three-dimensionally](https://github.com/GreenVeggi/zetIndex/blob/main/IEA005%20Strategic%20Sustainability%20Management/Corporations/Lozano%202008%20Envisioning%20Sustainability%20Three-Dimensionally.md)_. Journal of Cleaner Production, 16(17), 1838–1846. [10.1016/j.jclepro.2008.02.008](https://doi.org/10.1016/j.jclepro.2008.02.008).
+[^4]: Lozano, R. (2008). _[Envisioning sustainability three-dimensionally](https://github.com/GreenVeggi/TAMBA/blob/main/IEA005/18012022/Lozano%202008%20Envisioning%20Sustainability%20Three-Dimensionally.md)_. Journal of Cleaner Production, 16(17), 1838–1846. [10.1016/j.jclepro.2008.02.008](https://doi.org/10.1016/j.jclepro.2008.02.008).
 [^5]: Refer to Lozano and Huisingh (2011) for further details on the use of GT’s constant comparative analysis in the corporate sustainability context. Lozano, R., Huisingh, D., 2011. _Inter-linking issues and aspects in sustainability reporting_. Journal of Cleaner Production 19, 99e107.
 [^6]: Glaser, B.G., Strauss, A.L., 1999. _The Discovery of Grounded Theory: Strategies for Qualitative Research_. Aldine de Gruyter, New York.
 [^7]: DeSimone, L.D., Popoff, F., 2000. _Eco-Efficiency. The Business Link to Sustainable Development_. MIT Press.
