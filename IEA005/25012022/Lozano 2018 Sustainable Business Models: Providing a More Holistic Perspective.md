@@ -5,7 +5,6 @@
 - [Context](#context)
 - [Comments](#comments)
 - [Lecture comments](#lecture-comments)
-- [Zettels](#zettels)
 
 # General
 #### Author(s)
@@ -250,13 +249,10 @@ This allowed me to understand the position(s) taken by the definitions. The pape
   - The framework can also serve as a base for companies to analyse how CS has been integrated into their business models, strategies, and activities, and, consequently, contribute to making societies more sustainable.
   - Companies have to embed sustainability holistically, systemically, and integrally into the elements of their business models on cultural, structural, firm-level, and systems-level attributes to create value for the company whilst considering its stakeholders, and not based, as in many sustainable business model discourses, on creating value under the pretence of sustainability.
 
-# Zettels
-- [ ] More sustainable business models.
-
 [^1]: Dunphy, D., Griffiths, A., & Benn, S. (2014). _Organizational change for corporate sustainability_. London, UK: Routledge.
 [^2]: Elkington, J. (2002). _Cannibals with forks_. Oxford: Capstone Publishing Limited.
 [^3]: WCED. (1987). _Our common future_. Oxford, UK: Oxford University Press.
-[^4]: Lozano, R. (2012). *[Towards better embedding sustainability into companies' systems: An analysis of voluntary corporate initiatives](https://github.com/GreenVeggi/zetIndex/blob/main/IEA005%20Strategic%20Sustainability%20Management/Corporations/Lozano%202012%20Towards%20Better%20Embedding%20Sustainability%20into%20Companies%E2%80%99%20Sys-tems:%20an%20Analysis%20of%20Voluntary%20Corporate%20Initiatives.md)*. Journal of Cleaner Production, 25, 14–26. [10.1016/j.jclepro.2011.11.060](https://doi.org/10.1016/j.jclepro.2011.11.060).
+[^4]: Lozano, R. (2012). *[Towards better embedding sustainability into companies' systems: An analysis of voluntary corporate initiatives]https://github.com/GreenVeggi/TAMBA/blob/main/IEA005/18012022/Lozano%202012%20Towards%20Better%20Embedding%20Sustainability%20into%20Companies%E2%80%99%20Systems:%20an%20Analysis%20of%20Voluntary%20Corporate%20Initiatives.md)*. Journal of Cleaner Production, 25, 14–26. [10.1016/j.jclepro.2011.11.060](https://doi.org/10.1016/j.jclepro.2011.11.060).
 [^5]: Murray, A., Skene, K., & Haynes, K. (2017). _The circular economy: An interdisciplinary exploration of the concept and application in a global context_. Journal of Business Ethics, 140(3), 369–380. [10.1007/s10551‐015‐2693‐2](https://doi.org/10.1007/s10551‐015‐2693‐2).
 [^6]: Lay, G., Schroeter, M., & Biege, S. (2009). _Service‐based business concepts: A typology for business‐to‐business markets_. European Management Journal, 27(6), 442–455. [10.1016/j.emj.2009.04.002](https://doi.org/10.1016/j.emj.2009.04.002).
 [^7]: Mont, O., Dalhammar, C., & Jacobsson, N. (2006). _A new business model for baby prams based on leasing and product remanufacturing_. Journal of Cleaner Production, 14(17), 1509–1518. [10.1016/j.jclepro.2006.01.024](https://doi.org/10.1016/j.jclepro.2006.01.024).
