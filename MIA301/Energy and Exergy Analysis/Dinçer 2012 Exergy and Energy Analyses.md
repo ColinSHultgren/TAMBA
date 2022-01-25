@@ -98,7 +98,7 @@
   - Exergy associated with potential energy.
     - Similarly potential energy can also be converted to work entirely regardless of its surrounding – which equals to kinetic energy itself.
   - Exergy associated with internal energy.
-    - In a stationary compressible system at dead state (P0, T0), there is only internal energy.
+    - In a stationary compressible system at dead state (P<sub>0</sub>, T<sub>0</sub>), there is only internal energy.
     - When it undergoes a reversible process from initial state (P,T) to dead state (P<sub>0</sub>, T<sub>0</sub>) the useful work delivered during this process is the exergy of the system at its initial state, which equals the exergy of the internal energy of the system.
   - Example:
     - what is the available power at a wind turbine with a rotor radius of five metres, if the average wind velocity at STC is 25 m/s?
