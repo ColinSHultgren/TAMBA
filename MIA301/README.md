@@ -14,4 +14,12 @@
 - Azapagic, A. (2018). _[Environmental Systems Analysis](https://github.com/GreenVeggi/TAMBA/blob/main/MIA301/Energy%20and%20Exergy%20Analysis/Azapagic%202018%20Environmental%20Systems%20Analysis%20in%20Handbook%20of%20Environmental%20Engineering.md)_. In M. Kutz, _Handbook of Environmental Engineering_ (pp. 1–12). John Wiley & Sons, Ltd. [10.1002/9781119304418.ch1](https://doi.org/10.1002/9781119304418.ch1).
   - Only the EEA-related matters.
 
+# 2701 [Material and Substance Flow Analysis](https://github.com/GreenVeggi/TAMBA/tree/main/MIA301/Material%20and%20Substance%20Flow%20Analysis)
+- Cahyandito, M. (2007). _[MIPS Concept: An Environmental Economic Valuation Method](https://github.com/GreenVeggi/TAMBA/blob/main/MIA301/Material%20and%20Substance%20Flow%20Analysis/Cahyandito%202007%20MIPS%20Concept:%20An%20Environmental%20Economic%20Valuation%20Method.md)_.
+- Saidani, M., Yannou, B., Leroy, Y., Cluzel, F., & Kendall, A. (2019). _[A taxonomy of circular economy indicators](https://github.com/GreenVeggi/TAMBA/blob/main/MIA301/Material%20and%20Substance%20Flow%20Analysis/Saidani%202019%20A%20Taxonomy%20of%20Circular%20Economy%20Indicators.md)_. Journal of Cleaner Production, 207, 542–559. [10.1016/j.jclepro.2018.10.014](https://doi.org/10.1016/j.jclepro.2018.10.014).
+- Wrisberg, N., Udo de Haes, H. A., Triebswetter, U., Eder, P., & Clift, R. (2002). _[Analytical Tools for Environmental Design and Management in a Systems Perspective―The Combined Use of Analytical Tools](https://github.com/GreenVeggi/TAMBA/blob/main/MIA301/Material%20and%20Substance%20Flow%20Analysis/Wrisberg%202002%20Analytical%20Tools%20for%20Environmental%20Design%20and%20Management%20in%20a%20Systems%20Perspective%20%E2%80%95%20The%20Combined%20Use%20of%20Analytical%20Tools.md)_. Springer Science + Business Media. [10.1007/978-94-010-0456-5](https://doi.org/10.1007/978-94-010-0456-5).
+  - Only MFA/SFA-related matters.
+- Azapagic, A. (2018). _[Environmental Systems Analysis](https://github.com/GreenVeggi/TAMBA/blob/main/MIA301/Material%20and%20Substance%20Flow%20Analysis/Azapagic%202018%20Environmental%20Systems%20Analysis%20in%20Handbook%20of%20Environmental%20Engineering.md)_. In M. Kutz, _Handbook of Environmental Engineering_ (pp. 1–12). John Wiley & Sons, Ltd. [10.1002/9781119304418.ch1](https://doi.org/10.1002/9781119304418.ch1).
+  - Only the MFA/SFA-related matters.
+
 
