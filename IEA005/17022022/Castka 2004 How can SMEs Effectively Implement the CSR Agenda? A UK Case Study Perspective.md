@@ -4,7 +4,6 @@
 - [Article content](#content)
 - [Context](#context)
 - [Comments](#comments)
-- [Zettels](#zettels)
 
 # General
 #### Author(s)
