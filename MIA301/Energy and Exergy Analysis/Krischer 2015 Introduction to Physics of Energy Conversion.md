@@ -35,38 +35,51 @@
 
 # General
 #### Author(s)
-#### Abstract
-#### Key-words
+- Katharina Krischer - professor of physics at the Technische Universität München, Germany
+- Konrad Schönleber - researcher in the group of Prof. Krischer which he joined after graduating in physics from the Technische Universität München
+
 #### First two sentences of the introduction
+It is a central challenge for humanity to convert its energy infrastructure into a sustainable one. Sustainable energy supply means that the energy needs of the present are met without restricting the ability of future generations to satisfy their needs, as defined in the ‘Agenda 21’ by the United Nations.
 #### Last two sentences of the introduction
+This evaluation is a complex process and requires a detailed understanding of the energy supply technologies and the processes involved. It is the goal of this book to provide such a detailed understanding on the physical level for the important processes involved in the generation of electrical energy.
 #### (Notable) figures
+- Figure 2 - Energy flow through a converter from primary to final energy (left circle) and a converter from final to net energy (right circle). The widths of the arrows are proportional representations of the amounts of energy in the respective forms.
+  - ![image](https://user-images.githubusercontent.com/78508062/151052980-680880f5-3a62-48de-b9f9-8e3a92f3f621.png)
+- Figure 5 - Energy and exergy flow through an ideal converter (left) and a realistic converter where irreversibilities reduce the amount of work that can be performed (right). The width of the arrows is proportional to the amount of energy in the respective forms.
+  - ![image](https://user-images.githubusercontent.com/78508062/151059803-d3a8acec-d6fe-44d8-8c02-df6b8570dbfa.png)
+- ,
+
 #### Publication
 - [ ] peer-reviewed
 
-
+De Gruyter.
 #### Article type
-|major type|specific|
-|----------|--------|
-|<ul><li>- [ ] primary or original research article</li></ul>|<ul><li>- [ ] randomised controlled trial</li><li>- [ ] clinical trial</li><li>- [ ] before-and-after study</li><li>- [ ] cohort study</li><li>- [ ] case-control study</li><li>- [ ] cross-sectional study</li><li>- [ ] diagnostic test assessment</li><li>- [ ] case study</li><li>- [ ] technical note</li></ul>|
-|<ul><li>- [ ] secondary or review article</li></ul>|<ul><li>- [ ] narrative review article</li><li>- [ ] systematic review</li><li>- [ ] meta-analysis</li></ul>|
-|<ul><li>- [ ] special article</li></ul>|<ul><li>- [ ] letter/correspondence</li><li>- [ ] missive</li><li>- [ ] editorial opinion</li><li>- [ ] commentary</li><li>- [ ] pictorial essay</li><li>- [ ] other</li></ul>|
-|<ul><li>- [ ] tertiary literature</li></ul>|<ul><li>- [ ] textbook, handbook, or manual</li><li>- [ ] trade or professional publication article</li><li>- [ ] encyclopedia</li></ul>|
-|<ul><li>- [ ] grey literature</li></ul>|<ul><li>- [ ] conference proceding</li><li>- [ ] poster</li><li>- [ ] abstract</li><li>- [ ] government report</li><li>- [ ] for-profit and nonprofit organisation report or online forum</li><li>- [ ] (micro)blog or other social medium</li></ul>|
+Tertiary literature, chapter of a textbook.
 
 # Structure
+- Terms and definitions.
+    - Primary energy.
+    - Final energy.
+    - Net power.
+  - Units.
+  - Example: energy consumption and production.
+- Energy conversion processes.
+  - Exergy.
+  - Conversion efficiency.
+  - Example: heating of a room.
+- m
 
 # Article content
 ## Main concepts
 ## Supporting concepts
-## Research aim(s)
-## Hypothesis
-## Variables
-### Independent/treatment variables
-### Dependent/response variables
-### Control variables
-## Methodology
-## Results
+#### Primary power
+The total amount of energy stored in the different natural energy sources, such as fossil fuels, is called primary energy. Primary energy cannot be used directly but has to be refined in a process that takes away a part of the energy. The end product of the refinery process is the final energy. Refinery first means the refinery process necessary to produce energy in the form of directly usable fuels, such as diesel or gasoline, from natural sources such as crude oil. More importantly, another process that can also be seen as a refining of energy is the conversion of primary energy carriers, for example coal, gas, or uranium, into electrical energy as final energy. It is the latter process that accounts for most of the difference between primary and final energy.
+
+#### Final energy
+#### Net power
+
 ## Summary of key points
+- In the discussion of energy consumption, three terms with different meanings are frequently used: primary energy, final energy, and net energy. These terms are also synonymously applied to powers instead of energies, _i.e._ primary power, final power, and net power.
 ## Abbreviations
 
 # Context
