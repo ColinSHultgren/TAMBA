@@ -47,21 +47,39 @@ Secondary or review article, systematic review.
   - A circular economy in transition, for the sake of sustainable development.
   - A growing need for circularity indicators: history and current issues.
   - Research gaps and contributions.
-  - 
+- Definition of terms - positions for this study.
+  - Positioning on circular economy definitions.
+  - Indicators and related semantic field.
+  - Taxonomy and/or typology.
 - ,
 
 # Article content
 ## Main concepts
+#### Circular economy
+An economic system that replaces the ‘end-of-life’ concept with reducing, alternatively reusing, recycling and recovering materials in production/distribution and consumption processes. It operates at the micro level (products, companies, consumers), meso level (eco-industrial parks) and macro level (city, region, nation and beyond), with the aim to accomplish sustainable development, thus simultaneously creating environmental quality, economic prosperity and social equity, to the benefit of current and future generations[^5][^6].
+
+Additionally, according to the EMF (2013), the CE is based on three shared principles, which can be summarised as it follows: 
+1. design out waste and pollution, 
+2. keep products and materials in use, and 
+3. regenerate natural systems[^7].
+
+#### Indicator
+This article adopts the global view of the OECD (2014) where an indicator is defined as "a quantitative or qualitative factor or variable that provides a simple and reliable means to measure achievement, to reflect changes connected to an intervention, or to help assess the performance of a development actor”[^8]. 
+
+An indicator framework entails a collection of indicators that “conveys a broader purpose and significance to the individual indicator and provides a comprehensive picture of some entity”[^9]. Therefore, indicators simplify information, can help to reveal complex phenomena, and provide an effective tool for measuring progress and performance. 
+
 ## Supporting concepts
 ## Research aim(s)
-## Hypothesis
-## Variables
-### Independent/treatment variables
-### Dependent/response variables
-### Control variables
+## Justification
+CE definitions have been comprehensively reviewed by scholars. Sacchi et al. (2018) pointed out the lack of consensus on terminologies and definitions for the CE among scholars, politicians and practitioners investigating the trends, gaps, and convergence of the CE literature – through a sample composed of 327 academic articles[^5]. Similarly, Kirchherr et al. (2017) reviewed 114 circular economy definitions which were coded on 17 dimensions[^6]. 
+
 ## Methodology
 Systematic review of 55 sets of circularity indicators.
+![image](https://user-images.githubusercontent.com/78508062/151233871-d6041047-1622-49f0-9ceb-86f06f514feb.png)
+
 ## Results
+![image](https://user-images.githubusercontent.com/78508062/151233882-d0d71310-67e0-42cc-8f96-34171f126627.png)
+
 ## Summary of key points
 ## Abbreviations
 |abr|abbreviation|
@@ -89,9 +107,12 @@ SDI|sustainable development indicators
 
 # Questions
 
-
 [^1]: Hardi, P., Zdan, T. 1997. _Principles in Practice. Assessing Sustainable Development_. IISD-International Institute for Sustainable Development, Winnipeg.
 [^2]: Jesinghaus, J. 2014. _Bellagio Principles for Assessing Sustainable Development_. Encyclopedia of Quality of Life and Well-Being Research, Springer Publishers.
 [^3]: Behrens, A., Taranic, I., Rizos, V., 2015. _Resource Efficiency Indicators for Policy-Making_, CEPS (Centre for European Policy Studies) Working Document, №415, November 2015.
 [^4]: Geisendorf, S., Pietrulla, F., 2017. _The circular economy and circular economic concepts—a literature analysis and redefinition_. Thunderbird International Business Review, 2017, 1–12.
-[^5]: 
+[^5]: Sacchi Homrich, A., Galvão, G., Gamboa Abadia, L., Carvalho, M.M. 2018. _The circular economy umbrella: Trends and gaps on integrating pathways_. Journal of Cleaner Production, 175, 525-543.
+[^6]: Kirchherr, J., Reike, D., Hekkert, M. 2017. _Conceptualizing the circular economy: An analysis of 114 definitions, Resources, Conservation and Recycling_, 127, 221-232.
+[^7]: EMF-Ellen MacArthur Foundation, 2013. _Towards the Circular Economy: Economic and Business Rationale for an Accelerated Transition_. Cowes, UK.
+[^8]: OECD-Organisation for Economic Co-operation and Development. 2014. _Measuring and managing results in development cooperation_. November 2014.
+[^9]: Wisse, E. 2016. _Assessment of indicators for Circular Economy: The case for the Metropole Region of Amsterdam_, Faculty of Geosciences Theses, Utrecht University, Master Sustainable Business and Innovation.
