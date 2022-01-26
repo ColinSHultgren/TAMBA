@@ -20,7 +20,7 @@ This concept invites engineers in a company to to plan and design an environment
 - eco-efficiency
 
 #### First two sentences of the introduction
-According to Dunphy _et al_[^1], sustainability is defined as "living and working in ways that meet and balance existing economic, environmental and social needs without compromising the wellbeing of future generatios"[^2]. Based on the orientation to achieve sustainability, companies are required to make decisions and carry out programmes and projects in a manner that maintains or enhances financial viability while maximising benefits to the natural environment and humans and their cultures and communities[^2].
+According to Dunphy _et al_[^1], sustainability is defined as "living and working in ways that meet and balance existing economic, environmental and social needs without compromising the wellbeing of future generations"[^2]. Based on the orientation to achieve sustainability, companies are required to make decisions and carry out programmes and projects in a manner that maintains or enhances financial viability while maximising benefits to the natural environment and humans and their cultures and communities[^2].
 
 #### Last two sentences of the introduction
 Therefore, to improve their environmental performance, businesses need to measure and monitor their product life cycle[^3]. A global framework for such environmental performance measurement, monitoring and reporting system is already emerging. One of them is the MIPS Concept (Material Input per Unit of Service).
