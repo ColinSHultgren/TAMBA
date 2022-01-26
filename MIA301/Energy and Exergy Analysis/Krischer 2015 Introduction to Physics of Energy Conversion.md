@@ -1,37 +1,12 @@
 # Contents
 - [General characteristics](#general)
-  - [author(s)](#authors)
-  - [abstract](#abstract)
-  - [key-words](#key-words)
-  - [first two sentences](#first-two-sentences-of-the-introduction)
-  - [last two sentences](#last-two-sentences-of-the-introduction)
-  - [notable figures](#notable-figures)
-  - [publication](#publication)
 - [Structure](#structure)
 - [Article content](#content)
-  - [main concepts](#main-concepts)
-  - [supporting concepts](#supporting-concepts)
-  - [research aim(s)](#research-aims)
-  - [hypothesis](#hypothesis)
-  - [variables](#variables)
-    -[independent or treatment variables](#independenttreatment-variables)
-    -[dependent or response variables](#dependentresponse-variables)
-    -[control variables](#control-variables)
-  - [methodology](#methodology)
-  - [results](#results)
-  - [summary of key points](#summary-of-key-points)
-  - [abbreviations](#abbreviations)
 - [Context](#context)
-  - [significance](#significance)
 - [Comments](#comments)
 - [Lecture comments](#lecture-comments)
 - [References](#references)
-  - [most-cited reference(s)](#most-cited-references)
-  - [interesting looking reference(s)](#interesting-looking-references)
 - [Questions](#questions)
-  - [before reading](#before-reading)
-  - [during reading](#during-reading)
-  - [after reading](#after-reading)
 
 # General
 #### Author(s)
@@ -47,7 +22,6 @@ This evaluation is a complex process and requires a detailed understanding of th
   - ![image](https://user-images.githubusercontent.com/78508062/151052980-680880f5-3a62-48de-b9f9-8e3a92f3f621.png)
 - Figure 5 - Energy and exergy flow through an ideal converter (left) and a realistic converter where irreversibilities reduce the amount of work that can be performed (right). The width of the arrows is proportional to the amount of energy in the respective forms.
   - ![image](https://user-images.githubusercontent.com/78508062/151059803-d3a8acec-d6fe-44d8-8c02-df6b8570dbfa.png)
-- ,
 
 #### Publication
 - [ ] peer-reviewed
@@ -67,7 +41,43 @@ Tertiary literature, chapter of a textbook.
   - Exergy.
   - Conversion efficiency.
   - Example: heating of a room.
-- m
+
+# Equations
+- Consider a heat engine working periodically between two fixed temperature levels, _T_<sub>h</sub> > _T_<sub>c</sub>. An amount of heat _Q_ provided isothermally at a temperature _T_ in a reversible process is exactly given by _Q = ST_, with _S_ being the change in the entropy in the thermodynamic system which the heat enters. 
+- This increase of entropy in the system is transported by the heat itself, _i.e._ the heat input is accompanied by an entropy input of _S_. The input heat _Q_<sub>in</sub> at the higher temperature level of the heat engine _T_<sub>h</sub> thus takes the value _Q_<sub>in</sub> = _ST_<sub>h</sub>. 
+- In the assumed reversible processes the entropy in the heat engine is conserved in all state changes not involving heat transfers. This means that the same amount of entropy that enters the heat engine has to be discarded in each cycle. To achieve this, an amount of heat _Q_<sub>out</sub> = _ST_<sub>c</sub> has to be rejected at the lower temperature level. Thus, the maximal mechanical energy output _E_<sub>mech,out</sub> by a periodically working heat engine is given by
+  - _E_<sub>mech,out</sub> = _Q_<sub>in</sub> - _Q_<sub>out</sub> = Δ _S_(_T_<sub>h</sub> - _T_<sub>c</sub>)
+- The maximal efficiency of the heat engine then correspondingly amounts to
+  - ![\begin{align*}
+\eta &= \frac{E_{mech,out}}{Q_{in}} - \frac{\Delta S(T_h - T_c)}{\Delta ST_h} &=1 -\frac{T_c}{T_h} 
+\end{align*}
+](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Ceta+%26%3D+%5Cfrac%7BE_%7Bmech%2Cout%7D%7D%7BQ_%7Bin%7D%7D+-+%5Cfrac%7B%5CDelta+S%28T_h+-+T_c%29%7D%7B%5CDelta+ST_h%7D+%26%3D1+-%5Cfrac%7BT_c%7D%7BT_h%7D+%0A%5Cend%7Balign%2A%7D%0A)
+- For a waterwheel when an amount m of water is added at the inlet at a height of _h_<sub>in</sub>, the energy input _E_<sub>in</sub> is the potential energy in the gravitational field of the earth, _i.e._ _E_<sub>in</sub> = _mgh_<sub>in</sub>. 
+- The amount _m_ of water then crosses the waterwheel and is discarded at the outlet at height _h_<sub>out</sub>, a process associated with an energy loss of _E_<sub>loss</sub> = _mgh_<sub>out</sub>.
+- In a perfect process, the maximal amount of energy extractable from the waterwheel _E_<sub>out</sub> is thus given by _E_<sub>out</sub> = _mg_(_h_<sub>in</sub> - _h_<sub>out</sub>), and the efficiency of the process is consequently given by
+  - ![\begin{align*}
+\eta &= \frac{E_{out}}{E_{in}} &= \frac {mg(h_{in}-h_{out})}{mgh_{in}} &=1- \frac{h_{out}}{h_{in}} \end{align*}
+](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Ceta+%26%3D+%5Cfrac%7BE_%7Bout%7D%7D%7BE_%7Bin%7D%7D+%26%3D+%5Cfrac+%7Bmg%28h_%7Bin%7D-h_%7Bout%7D%29%7D%7Bmgh_%7Bin%7D%7D+%26%3D1-+%5Cfrac%7Bh_%7Bout%7D%7D%7Bh_%7Bin%7D%7D+%5Cend%7Balign%2A%7D%0A)
+- The second law of thermodynamics states that maximal extractable work in general is not identical with the amount of energy itself. The part of the energy that can be converted into useful work is called exergy or availability, Φ, the rest is called anergy, _A_. Any amount of energy, _E_, can thus be
+decomposed into these two contributions:
+  - _E = Φ + A_
+    - _E_: amount of energy
+    - _Φ_: exergy or availability, the part of energy that can be converted into useful work
+    - _A_: anergy, the part of energy that cannot be converted into useful work
+- Energy of first-law efficiency
+  - ![\begin{align*}
+\eta_1 &= \frac{E_{out}}{E_{in}}  \end{align*}
+](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Ceta_1+%26%3D+%5Cfrac%7BE_%7Bout%7D%7D%7BE_%7Bin%7D%7D++%5Cend%7Balign%2A%7D%0A)
+  - For the conversion process of an amount of energy in one form, _E_<sub>in</sub>, into energy in another desired form, _E_<sub>out</sub>, an efficiency 1 can be given.
+- Exergy or second-law efficiency and efficiency
+  - ![\begin{align*}
+\eta_2 &= \frac{\phi_{out}}{\phi_{in}}  \end{align*}
+](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Ceta_2+%26%3D+%5Cfrac%7B%5Cphi_%7Bout%7D%7D%7B%5Cphi_%7Bin%7D%7D++%5Cend%7Balign%2A%7D%0A)
+  - _Φ_: exergy or availability, the part of energy that can be converted into useful work
+- During direct electrical heating no energy is converted into an undesired form as all the electrical input energy is converted to heat leading to a first law efficiency of
+  - ![\begin{align*}
+\eta_1 &= \frac{Q_{out}}{\E_{(el) in}}  &=1\end{align*}
+](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Ceta_1+%26%3D+%5Cfrac%7BQ_%7Bout%7D%7D%7B%5CE_%7B%28el%29+in%7D%7D++%26%3D1%5Cend%7Balign%2A%7D%0A)
 
 # Article content
 ## Main concepts
