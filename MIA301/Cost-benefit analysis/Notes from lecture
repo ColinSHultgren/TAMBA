@@ -1,0 +1,102 @@
+# Cost-benefit analysis 31/1
+
+Cost-benefit analysis is an economic tool used to determine if the benefits of an investment outweigh the cost. CBA is good because it takes a holistic perspective on the project or issue. All the positive and negative effects should be accounted for in the same unit - a monetary unit. These effects should be viewed from a social view (not from a companies POV). CBA is therefore not strictly for environmental analysis, it can be done for any kind of project. This also allows a simple single economic metric which makes it easy to compare different projects. It is similar to a company’s financial analysis but include socio-economic impacts as well. It’s a robust tool that is used in large institutions. 
+
+**Arguments against:**
+
+
+
+* It is a simplistic view with only a single value
+    * **Counterargument** → be clear and include everything
+* Is it really appropriate to measure everything in money? 
+    * **Counterargument** → Money is an easy variable to understand
+
+CBA includes seven non-linear steps (DDIFFER), see Fig 2
+
+
+
+* **Description**
+    * This includes the background information of the project. Socioeconomic conditions (GDP, demographics, etc.) Current infrastructure. Other relevant info such as environmental issues. Perceptions and expectations of the general public (what do people think of the current situation and what we are proposing)
+* **Definition**
+    * This includes stating the purpose of the project. The construction of a new road might reduce city congestion, pollution and travel time. It might also increase the traffic between two cities. The purpose determines what should be measured and makes it easier to measure the effects. Effects should be quantifiable with measurable key performance indicators. The description must also be taken into account together with these effects to establish a baseline. If we have a baseline we can measure the change. 
+* **Identification**
+    * The first step of identification is to show what will be done
+        * Explain the actual work that will be done
+        * Define who is responsible
+        * Clearly specify different stages of the project
+    * The second step is to identify who will be affected
+        * Define the impact area of the project (local, regional, global…)
+* **Feasibility**
+    * This includes design, cost, and timeline
+    * Externalities is important to capture non. financial costs 
+        * Externalities are costs that are not directly attributable to the financial spreadsheet
+        * These are important because we want to understand the whole impact
+        * LCA or EIA for example can be used to complement CBA in order to get the information
+    * Demand analysis verify the actual project need (do we need to do this)
+        * When collecting data for the demand the appropriate sources can vary
+    * Options analysis identifies different solutions
+        * What is the best solution when multiple goals are taken into account?
+* **Financial analysis**
+    * Discounted cash flows are used to capture costs and revenues over time
+    * Net present value (NPV) is the most important economic tool
+        *  NPV is the sum of all cost and revenues for each year
+        * Money is worth more today than tomorrow
+        * Inflation reduce the value of money over time 
+        * Opportunity cost - The money that can’t be spent also reduce the time value of money
+        * Discount rate ® captures the opportunity cost
+
+Fig 1. NPV equation
+
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.png "image_tooltip")
+
+
+
+
+* If NPV is positive  the project it profitable
+* If NPV is negative the project is **not** profitable
+* **Economic analysis**
+    * Economic analysis captures non-tangible costs (e.g. lsot work time)
+    * Willingness to pay (WTP) is a subjective measure of people’s preferences
+        * What is one hour worth to you? (approximation: hourly wage)
+        * It’s tricky because if no one is willing to pay, the cost is zero - is this true?
+    * Economic analysis combines financial analysis with externalities costs 
+        * Key performance indicators:
+            * Net present value (most important KPI)
+            * Rate of return
+            * Benefit to cost ratio (benefits/costs)
+* **Risk assessment**
+    * Sensitivity analysis is the first risk assessment tool and has three main tools
+        * Change each variable by 1%. If NPV changes more than 1%, the impact is significant.
+        * Switching values - How much relatively does a variable need to change to reach NPV=0?
+        * Scenario analysis - Change multiple values at the same time. Common to use pessimistic, normal and optimistic scenarios
+    * Qualitative analysis uses probability and severity to measure risk
+        * Probability scale (1-5)
+        * Severity impact scale (1-5)
+    * Risk prevention and risk mitigation is common practice in any project
+
+Fig 2. The steps of CBA
+
+
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image2.png "image_tooltip")
+
+
+**Conclusions of CBA**
+
+
+
+* Cost-benefit analysis is an economic evaluation tool
+* Externalities are used to capture societal costs such as pollution, travel time, recreation etc.
+* Setting the system boundaries is important to understand what to measure
+* CBA is best combined with other environmental assessment methods to capture everything (LCA, EIA for example.)
+* The net present value (NPV) is the most important metric
+* A single value for the analysis is provided but it is important to clearly state how the analysis is done
+* Assessing the risks, including sensitivity analysis is critical to truly understand different 
